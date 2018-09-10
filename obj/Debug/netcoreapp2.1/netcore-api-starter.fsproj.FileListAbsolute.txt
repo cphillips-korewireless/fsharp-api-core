@@ -1,0 +1,10 @@
+C:\Users\cody\Documents\code\f#\f#-api-core\bin\Debug\netcoreapp2.1\netcore-api-starter.deps.json
+C:\Users\cody\Documents\code\f#\f#-api-core\bin\Debug\netcoreapp2.1\netcore-api-starter.runtimeconfig.json
+C:\Users\cody\Documents\code\f#\f#-api-core\bin\Debug\netcoreapp2.1\netcore-api-starter.runtimeconfig.dev.json
+C:\Users\cody\Documents\code\f#\f#-api-core\bin\Debug\netcoreapp2.1\netcore-api-starter.dll
+C:\Users\cody\Documents\code\f#\f#-api-core\bin\Debug\netcoreapp2.1\netcore-api-starter.pdb
+C:\Users\cody\Documents\code\f#\f#-api-core\obj\Debug\netcoreapp2.1\netcore-api-starter.fsprojAssemblyReference.cache
+C:\Users\cody\Documents\code\f#\f#-api-core\obj\Debug\netcoreapp2.1\netcore-api-starter.AssemblyInfoInputs.cache
+C:\Users\cody\Documents\code\f#\f#-api-core\obj\Debug\netcoreapp2.1\netcore-api-starter.AssemblyInfo.fs
+C:\Users\cody\Documents\code\f#\f#-api-core\obj\Debug\netcoreapp2.1\netcore-api-starter.dll
+C:\Users\cody\Documents\code\f#\f#-api-core\obj\Debug\netcoreapp2.1\netcore-api-starter.pdb
